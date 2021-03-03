@@ -1,23 +1,23 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Adding Value to Developer Community
+    # text: It's Nice To Meet You
+    button: Our Products
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Adding Value to Developer Community"
+    # text: "Lorem ipsum"
     section: services
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        # icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        # icon: fas fa-laptop       
+      - title: "[Fluent Mongo](https://github.com/streamx-co/FluentMongo)"
+        desc: "Type-safe, object oriented Mongo queries. Write queries using your entities and normal Java syntax. Enjoy type safety, auto completion and refactoring."
+        # icon: fab fa-markdown
 
 portfolio:
     title: "Portfolio"
