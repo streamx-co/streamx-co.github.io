@@ -49,12 +49,6 @@ timeline:
         alt: 
         align: right
     end: "Be Part <br> of Our <br> Story!"
-
-
-contact:
-    title: "Contact Us"
-    #text: "Lorem ipsum or call 123456789"
-    section: contact
     
 footer:
     legal: "Privacy Policy"
