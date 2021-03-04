@@ -56,17 +56,17 @@ timeline:
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
-about:
-    title: "About Us"
-    text: "our story"
-    section: about
+#about:
+#    title: "About Us"
+#    text: "our story"
+#    section: about
 
 clients:
 #   section: clients
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
+      - title: "envatoo"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/envato.jpg
       - title: "designmodo"
