@@ -20,34 +20,27 @@ services:
         icon: fas fa-database
 
 timeline:
-    title: "About" 
-    text: "Lorem ipsum timeline"
+    title: "About Us" 
     section: timeline
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Personalized Software"
+     #   year: "2009-2011"
+        desc: "At our company, we turn the digital dreams of our clients into a reality. We work closely with our users throughout development to ensure that we are still aligned with the end-goal. We are committed to producing exceptional software for each of our clients."
         image: assets/img/timeline/1.jpg
         alt: 
         align: left
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Rigorous Testing"
+     #  year: "March 2011"
+        desc: "Once we have finished the initial development of our client's product, we begin performing meticulous bug checks. These tests are included in the price of the development package. After testing, we deliver the software to our clients."
         image: assets/img/timeline/2.jpg
         alt: 
         align: right
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Quality Guaranteed
+    #    year: "2019"
+        desc: "The world of technology can be fast-paced and scary. That's why our goal is to provide a high-quality product that aligns with your company's needs. No matter the budget, we pride ourselves on providing professional customer service. We guarantee you will be satisfied with our work."
         image: assets/img/timeline/3.jpg
         alt: image alt text
         #align: #default is left       
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt: 
-        align: right
     end: "Be Part <br> of Our <br> Story!"
     
 footer:
