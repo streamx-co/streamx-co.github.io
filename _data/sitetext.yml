@@ -6,15 +6,15 @@ header:
 
 services:
     title: "Our Products"
-    text: "----"
+    text: "Bring your ideas to life!"
     section: services
     list:
       - title: "[ELINQ](https://entitylinq.com)"
         desc: "ELINQ is a Language Integrated Query (LINQ) technology for relational databases and EF Core. Use SQL statements as if they are a C# library methods. Enjoy type safety, auto completion and refactoring."
-        icon: fas fa-dev #find more at https://fontawesome.com/icons
+        icon: fab fa-connectdevelop #find more at https://fontawesome.com/icons
       - title: "[Fluent JPA](https://fluentjpa.com)"
         desc: "Type-safe, Object Oriented SQL for JPA. Write SQL using your JPA entities and normal Java syntax. Use SQL statements as if they are a Java library methods. Enjoy type safety, auto completion and refactoring."
-        icon: fas fa-java       
+        icon: fab fa-java       
       - title: "[Fluent Mongo](https://github.com/streamx-co/FluentMongo)"
         desc: "Type-safe, object oriented Mongo queries. Write queries using your entities and normal Java syntax. Enjoy type safety, auto completion and refactoring."
         icon: fas fa-database
