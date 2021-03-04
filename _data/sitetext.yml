@@ -19,10 +19,10 @@ services:
         desc: "Type-safe, object oriented Mongo queries. Write queries using your entities and normal Java syntax. Enjoy type safety, auto completion and refactoring."
         icon: fas fa-database
 
-portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
+# portfolio:
+#    title: "Portfolio"
+#    text: "Lorem ipsum dolor sit amet consectetur."
+#    section: portfolio
     
 
 timeline:
@@ -62,7 +62,7 @@ about:
     section: about
 
 clients:
-    section: clients
+#   section: clients
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
